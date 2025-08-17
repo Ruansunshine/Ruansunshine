@@ -33,7 +33,7 @@ Atual- Secretária Municipal de inovação e tecnologia
 
 Stack: `JavaScript` `TypeScript` `PostgreSQL` `GitLab` `Node.js`  
 
-###  1º Hackathon Porto do Itaqui
+###  1º Hackathon do Complexo Portuário Maranhense
 **Desenvolvedor** \
 1º lugar — Desenvolvimento do frontend de solução com AI para detecção preventiva do uso de EPI. \
 Stack: `Node.js` `Typescript` `React` `MongoDb` `bun` `Rust-Tauri` `Git` 
@@ -79,5 +79,6 @@ resolução de problemas interno e externo, assistência pra equipe de fibra em 
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=36BCF7&width=800&lines="Cada+l%C3%ADnea+de+c%C3%B3digo+constr%C3%B3i+o+meu+futuro.";–+Ruan+da+Silva,+2025)](https://git.io/typing-svg)
+
 
 
